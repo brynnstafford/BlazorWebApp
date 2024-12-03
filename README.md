@@ -36,7 +36,7 @@ To run this project, ensure you have the following installed:
 - A code editor like [Visual Studio Code](https://code.visualstudio.com/) or [Visual Studio](https://visualstudio.microsoft.com/)
 ### Installation
 1. Clone the repository:
-- git clone https://github.com/your-username/blazor-web-app.git  
+- git clone https://github.com/brynnstafford/BlazorWebApp.git
 - cd blazor-web-app  
 
 2. Restore NuGet packages:
