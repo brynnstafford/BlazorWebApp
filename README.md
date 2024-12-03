@@ -37,7 +37,7 @@ To run this project, ensure you have the following installed:
 ### Installation
 1. Clone the repository:
 - git clone https://github.com/brynnstafford/BlazorWebApp.git
-- cd blazor-web-app  
+- cd BlazorWebApp 
 
 2. Restore NuGet packages:
 - dotnet restore  
