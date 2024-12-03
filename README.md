@@ -1,4 +1,4 @@
-# BrynnStaffordWebApp
+# BlazorWebApp
 # Blazor Web App
 A simple web application built using Microsoft Blazor, demonstrating client-side and server-side functionality with Razor components.
 
